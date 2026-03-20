@@ -1,3 +1,3 @@
-# test
-
-<img src="./thaiboy_suit.jpeg" >
+<p align="center">
+  <img src="./thaiboy_suit.jpeg" width="500px" >
+</p>
